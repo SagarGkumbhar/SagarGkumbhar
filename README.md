@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SagarGkumbhar
 - 👀 I’m interested in the fields of machine learning and artificial intellegence.
 - 🌱 I’m currently learning Electronics and Telecommunications Engineering
-- 💞️ I’m looking to collaborate on topics related from Machine learning like, Autonomus vehicles, Computer vision and Image recoginition softwares
+- 💞️ I’m looking to collaborate on topics related to Machine learning like, Autonomus vehicles, Computer vision and Image recoginition softwares
 - 📫 Contact me on Github
 
 <!---
